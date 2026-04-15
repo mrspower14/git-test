@@ -1,2 +1,3 @@
 1: create file b.txt
 2: hotfix rebase test
+3: password test
